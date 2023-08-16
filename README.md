@@ -1,6 +1,5 @@
-#This is just a beta version 
+# *LZY联合战队*
 
-[mas1.5正式版.zip](https://github.com/sbofinWord/sbofinWord.github.io/files/9314271/mas1.5.zip)
-[![p95Oolj.png](https://s1.ax1x.com/2023/05/21/p95Oolj.png)]
 
+_________________
 
